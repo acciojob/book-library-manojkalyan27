@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #f8f8f8;
+	text-align: center;
+}
+
+
+.container>h1{
+	text-align: center;
+}
+
+.book{
+	margin: 50px;
+	
+}
+
+.book>h1{
+	text-align: left;
+/* 	margin: 20px; */
+	
+	
+}
+.book>p{
+	text-align: left;
+	margin-top: -25px;
+	color: #777777;
+}
+
+/* .book-library{
+	background-color: #ffffff;
+} */
+
+#price{
+	background-color: #2ecc71;
+	color: white;
+}
