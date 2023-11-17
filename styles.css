@@ -14,7 +14,7 @@ body{
 	
 }
 
-.book>h1{
+.book>h2{
 	text-align: left;
 /* 	margin: 20px; */
 	
@@ -24,6 +24,7 @@ body{
 	text-align: left;
 	margin-top: -25px;
 	color: #777777;
+	
 }
 
 /* .book-library{
@@ -33,4 +34,5 @@ body{
 #price{
 	background-color: #2ecc71;
 	color: white;
+	margin-top: -18px;
 }
